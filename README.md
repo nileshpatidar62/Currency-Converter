@@ -22,7 +22,7 @@ Demonstrates strong front-end development fundamentals, JavaScript programming, 
 
 # 🛠️ Tech Stack
 
-**Frontend:** HTML5, CSS3, JavaScript (ES6+)
+**Frontend:** HTML, CSS, JavaScript
 
 **API Integration:** Fetch API, REST API
 
@@ -170,9 +170,9 @@ Designed a structured footer containing project information and useful navigatio
 
 # 💡 Skills Demonstrated
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
+* HTML
+* CSS
+* JavaScript
 * Fetch API
 * REST API Integration
 * Async/Await
@@ -182,7 +182,6 @@ Designed a structured footer containing project information and useful navigatio
 * Event Handling
 * Responsive Web Design
 * Flexbox
-* Media Queries
 * API Error Handling
 * Cross-Browser Compatibility
 * Front-End Development
